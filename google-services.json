@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076313572414",
+    "project_id": "gstmt-5166a",
+    "storage_bucket": "gstmt-5166a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076313572414:android:c4c42ba022a3b552b77d6f",
+        "android_client_info": {
+          "package_name": "mr.gstmt.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAdq4dXJTe-o9wTqwKUtX5DII9mintU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
